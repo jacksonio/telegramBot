@@ -17,8 +17,10 @@
     "baseUrl": "src",
     "noImplicitOverride": true
   },
+  "outDir": "./built/combine.js",
   "include": [
-    "src", "./.eslintrc.js",
+    "src",
+    "./.eslintrc.js"
   ],
   "ts-node": {
     "compilerOptions": {

@@ -1,12 +1,9 @@
 {
   "name": "telegrambot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "ts-node src/index.ts"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.5.0",
